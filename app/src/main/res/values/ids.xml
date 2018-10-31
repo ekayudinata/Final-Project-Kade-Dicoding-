@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="team_badge" type="id" />
+    <item name="team_name" type="id" />
+    <item name="team_home2" type="id" />
+    <item name="team_away2" type="id" />
+    <item name="home_score" type="id" />
+    <item name="away_score" type="id" />
+    <item name="spinnerr" type="id" />
+    <item name="listEventt" type="id" />
+    <item name="home_score2" type="id" />
+    <item name="away_score2" type="id" />
+    <item name="date_match" type="id" />
+    <item name="home_goal" type="id"/>
+    <item name="away_goal" type="id"/>
+    <item name="home_shots" type="id"/>
+    <item name="away_shots" type="id"/>
+    <item name="home_goal_keeper" type="id"/>
+    <item name="away_goal_keeper" type="id"/>
+    <item name="home_defense" type="id"/>
+    <item name="away_defense" type="id"/>
+    <item name="home_midfield" type="id"/>
+    <item name="away_midfield" type="id"/>
+    <item name="home_forward" type="id"/>
+    <item name="away_forward" type="id"/>
+    <item name="home_substitutes" type="id"/>
+    <item name="away_substitutes" type="id"/>
+    <item name="swipe_refresh" type="id"/>
+    <item name="IdoverView" type="id"/>
+    <item name="player_badge" type="id"/>
+    <item name="player_name" type="id"/>
+    <item name="player_position" type="id"/>
+    <item name="over_view" type="id"/>
+    <item name="player_weight" type="id"/>
+    <item name="player_height" type="id"/>
+    <item name="player_description" type="id"/>
+    <item name="nameTeams" type="id"/>
+    <item name="idTime" type="id"/>
+    <item name="btnImage" type="id"/>
+    <item name="dateM" type="id"/>
+    <item name="timeM" type="id"/>
+    <item name="search_team" type="id"/>
+    <item name="toolBars" type="id"/>
+</resources>
